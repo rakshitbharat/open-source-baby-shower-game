@@ -430,23 +430,3 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
   [Follow me](https://github.com/rakshitbharat) for more awesome projects!
 </div>
 
-### Share the Project
-
-- [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Baby%20Gender%20Reveal%20Vote%20app!%20Perfect%20for%20virtual%20and%20in-person%20baby%20showers.%20&url=https://github.com/rakshitbharat/open-source-baby-shower-game)
-- [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/rakshitbharat/open-source-baby-shower-game)
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/rakshitbharat/open-source-baby-shower-game)
-
-### Support the Project
-
-- ⭐ Star this repository
-- 🔄 Fork this repository
-- 👀 Watch this repository for updates
-- 🐛 Report bugs via [Issues](https://github.com/rakshitbharat/open-source-baby-shower-game/issues)
-- 💡 Request features via [Issues](https://github.com/rakshitbharat/open-source-baby-shower-game/issues)
-- 📖 Create documentation
-- 🔍 Review pull requests
-
-### Connect & Contribute
-
-- Read our [Contributing Guidelines](CONTRIBUTING.md)
-- Check out our [Code of Conduct](CODE_OF_CONDUCT.md)
