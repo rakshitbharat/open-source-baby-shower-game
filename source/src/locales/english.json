@@ -1,0 +1,90 @@
+{
+  "header": {
+    "title": "Baby Gender Vote",
+    "messages": {
+      "initial": "Please select a gender prediction",
+      "selected": {
+        "boy": "You selected Boy!",
+        "girl": "You selected Girl!"
+      },
+      "submitted": {
+        "boy": "Thanks for voting boy!",
+        "girl": "Thanks for voting girl!"
+      }
+    }
+  },
+  "genderOptions": {
+    "girl": {
+      "text": "It's a Girl!"
+    },
+    "boy": {
+      "text": "It's a Boy!"
+    }
+  },
+  "submitButton": {
+    "default": "Select Gender",
+    "ready": "Submit Vote"
+  },
+  "confirmation": {
+    "title": "Thank You!",
+    "voted": {
+      "girl": "You voted for: Girl",
+      "boy": "You voted for: Boy"
+    },
+    "description": "Your vote has been recorded. Stay tuned for the big reveal!",
+    "thanks": "Thanks for voting!",
+    "registered": "Your vote has been registered. Stay tuned for the big reveal!",
+    "changeVote": "Change your vote",
+    "resetForNext": "Reset for Next Voter"
+  },
+  "welcome": {
+    "title": "Welcome to Gender Reveal Vote!",
+    "description": "This is an interactive application where friends and family can participate in predicting the gender of the upcoming baby.",
+    "feature1": "Simple and intuitive voting system",
+    "feature2": "Multiple language support",
+    "feature3": "Real-time vote tracking",
+    "continue": "Start Voting",
+    "goHome": "Return to Home"
+  },
+  "instructions": {
+    "show": "Instructions"
+  },
+  "gender": {
+    "boy": "Boy 👶",
+    "girl": "Girl 👧"
+  },
+  "results": {
+    "title": "Baby Gender Prediction Results 🎊",
+    "votes": "Total Votes",
+    "showResults": "View Results",
+    "backToHome": "Back to Home",
+    "totalVotes": "Total Predictions",
+    "boyPercentage": "Predicted Boy",
+    "girlPercentage": "Predicted Girl",
+    "description": "See what everyone is predicting!",
+    "leading": "Leading",
+    "tie": "It's a Tie!",
+    "leadBy": "Lead by",
+    "votes": "votes"
+  },
+  "vote": {
+    "waitingForVotesToFinish": "Waiting for votes to finish...",
+    "votingInProgress": "Voting is in progress.\n Please wait while we gather all predictions!",
+    "warning": "⚠️ Once submitted, vote is final!"
+  },
+  "home": {
+    "title": "Welcome to Baby Gender Prediction!",
+    "subtitle": "Join the fun and predict the gender",
+    "description": "Be part of this exciting journey! Make your prediction about the baby's gender and join others in this special moment.",
+    "startButton": "Start Predicting",
+    "viewResults": "View Results",
+    "totalPredictions": "Total Predictions",
+    "boyPredictions": "Predicted Boy",
+    "girlPredictions": "Predicted Girl"
+  },
+  "share": {
+    "button": "Share Game",
+    "message": "Check out this voting app!",
+    "copied": "Link copied to clipboard!"
+  }
+}

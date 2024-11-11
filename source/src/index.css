@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Gujarati:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: "Noto Sans Gujarati", system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.language-selector {
+  background: white;
+  border-radius: 50px;
+  width: 100%;
+  max-width: 160px;
+  position: relative;
+  z-index: 100;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.language-selector .css-1s2u09g-control {
+  border-radius: 50px !important;
+  min-height: 44px !important;
+  background: white !important;
+}
+
+.language-selector .css-1pahdxg-control {
+  border-radius: 50px !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.language-selector .css-319lph-ValueContainer {
+  padding: 2px 16px !important;
+}
+
+.language-selector .css-tlfecz-indicatorContainer {
+  padding-right: 16px !important;
+}
+
+.language-selector .css-26l3qy-menu {
+  border-radius: 16px !important;
+  margin-top: 8px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
+  overflow: hidden;
+}
+
+.language-selector .css-1n7v3ny-option {
+  padding: 12px 16px !important;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
