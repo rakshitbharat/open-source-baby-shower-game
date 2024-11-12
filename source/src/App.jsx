@@ -44,8 +44,10 @@ const AppContent = () => {
     const unsubscribe = onValue(resultsRef, (snapshot) => {
       const data = snapshot.val();
       if (data && data.showGameStarted === false) {
-        // Use the environment variable for redirect URL
-        window.location.href = import.meta.env.VITE_REDIRECT_URL;
+        // Only redirect if VITE_REDIRECT_URL is defined
+        if (import.meta.env.VITE_REDIRECT_URL) {
+          window.location.href = import.meta.env.VITE_REDIRECT_URL;
+        }
       }
     });
 
