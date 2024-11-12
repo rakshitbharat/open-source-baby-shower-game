@@ -171,7 +171,7 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rakshitbharat/open-source-baby-shower-game.git
    cd baby-shower-exit-poll-voting-app/source
    ```
 
