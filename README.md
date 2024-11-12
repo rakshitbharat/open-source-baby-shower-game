@@ -5,51 +5,41 @@
 [![GitHub issues](https://img.shields.io/github/issues/rakshitbharat/open-source-baby-shower-game.svg)](https://github.com/rakshitbharat/open-source-baby-shower-game/issues)
 [![GitHub license](https://img.shields.io/github/license/rakshitbharat/open-source-baby-shower-game.svg)](https://github.com/rakshitbharat/open-source-baby-shower-game/blob/master/LICENSE)
 
-> 🌟 Create exciting baby gender reveal parties with real-time voting! Perfect for both in-person and virtual baby showers.
+## 📖 About
+
+Baby Gender Reveal Vote is an interactive web application that transforms traditional gender reveal parties into engaging events. This open-source project allows friends and family to participate in predicting the baby's gender through a beautiful, real-time voting system.
+
+### Why Choose This App?
+
+- 🎯 **Perfect for Modern Celebrations**: Ideal for both in-person and virtual baby showers
+- ⚡ **Real-time Experience**: Instant vote updates and live results
+- 🌍 **Inclusive Design**: Multi-language support and mobile-responsive interface
+- 🔒 **Secure**: One vote per user system with admin controls
+- 🎨 **Beautiful Interface**: Engaging animations and themed design
+- 💻 **Easy Setup**: Simple installation process with detailed documentation
+
+### Use Cases
+
+- Virtual Baby Showers
+- In-person Gender Reveal Parties
+- Family Gatherings
+- Social Media Live Events
+- Baby Shower Games
+- Gender Prediction Contests
 
 ## 🚀 Quick Links
 
-[Screenshots](#-screenshots) • [Technical Details](#-technical-details) • [Report Bug](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=bug_report.md) • [Request Feature](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=feature_request.md)
-
-## 💡 Overview
-
-Baby Gender Reveal Vote is an interactive web application that transforms traditional gender reveal parties into engaging events where friends and family can participate in predicting the baby's gender. Built with React.js and Firebase, it offers real-time voting, beautiful animations, and an admin dashboard.
-
-### Key Features
-
-- 📊 Real-time voting system
-- 🌐 Multi-language support
-- 📱 Mobile-responsive design
-- 👥 Admin control panel
-- 🎨 Beautiful animated interfaces
-- 📈 Live results dashboard
-
-[View All Features](#-features)
-
-## 🎯 Perfect For
-
-- Baby Shower Organizers
-- Parents-to-be
-- Event Planners
-- Virtual Baby Showers
-- Family Gatherings
-- Gender Reveal Parties
-
-## 🛠️ Built With
-
-- React.js
-- Firebase
-- TailwindCSS
-- Framer Motion
+[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage Guide](#-usage-guide) • [Report Bug](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=bug_report.md) • [Request Feature](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=feature_request.md)
 
 ## 📋 Table of Contents
 
+- [About](#-about)
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Technical Details](#-technical-details)
 - [Installation](#-installation)
-- [Available Scripts](#available-scripts)
 - [Firebase Setup Steps](#firebase-setup-steps)
+- [Available Scripts](#available-scripts)
 - [Verification Steps](#verification-steps)
 - [Common Setup Issues](#common-setup-issues)
 - [Development Tips](#development-tips)
@@ -58,6 +48,13 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
 - [Contributing](#-contributing)
 - [Troubleshooting](#-troubleshooting)
 - [License](#-license)
+
+## 🛠️ Built With
+
+- React.js
+- Firebase
+- TailwindCSS
+- Framer Motion
 
 ## ✨ Features
 
@@ -441,28 +438,6 @@ Setting up Firebase for your project involves creating a Firebase project, confi
 ## 🔍 Keywords
 
 baby shower, gender reveal, voting app, baby gender prediction, virtual baby shower, gender reveal party, real-time voting, baby shower games, interactive baby shower, gender reveal ideas
-
-## 📖 About
-
-Baby Gender Reveal Vote is an interactive web application that transforms traditional gender reveal parties into engaging events. This open-source project allows friends and family to participate in predicting the baby's gender through a beautiful, real-time voting system.
-
-### Why Choose This App?
-
-- 🎯 **Perfect for Modern Celebrations**: Ideal for both in-person and virtual baby showers
-- ⚡ **Real-time Experience**: Instant vote updates and live results
-- 🌍 **Inclusive Design**: Multi-language support and mobile-responsive interface
-- 🔒 **Secure**: One vote per user system with admin controls
-- 🎨 **Beautiful Interface**: Engaging animations and themed design
-- 💻 **Easy Setup**: Simple installation process with detailed documentation
-
-### Use Cases
-
-- Virtual Baby Showers
-- In-person Gender Reveal Parties
-- Family Gatherings
-- Social Media Live Events
-- Baby Shower Games
-- Gender Prediction Contests
 
 ---
 
