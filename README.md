@@ -29,7 +29,7 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
 
 ## 🚀 Quick Links
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage Guide](#-usage-guide) • [Report Bug](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=bug_report.md) • [Request Feature](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=feature_request.md)
+[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Report Bug](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=bug_report.md) • [Request Feature](https://github.com/rakshitbharat/open-source-baby-shower-game/issues/new?template=feature_request.md)
 
 ## 📋 Table of Contents
 
