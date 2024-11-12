@@ -148,6 +148,48 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
 
 ## 🔧 Technical Details
 
+### Firebase Data Structure
+
+The application uses Firebase Realtime Database with the following structure:
+
+```json
+{
+  "gameState": {
+    "test": {
+      "message": "Test connection successful",
+      "timestamp": "2024-11-10T19:14:34.613Z"
+    },
+    "manualAdjustments": {
+      "boy": 0,
+      "girl": 0
+    },
+    "results": {
+      "showGameStarted": true,
+      "showResultPage": true,
+      "showVotingScreen": true
+    },
+    "userVotes": {
+      "06f26ecf-8ca2-4794-8de7-335878e17ad3": {},
+      "08f433e0-c054-47a7-a9bb-79d0dca0ec35": {}
+      // Additional user vote entries...
+    }
+  }
+}
+```
+
+#### Data Structure Explanation:
+
+- **gameState**: Root node containing all game-related data
+  - **test**: Connection testing information
+  - **manualAdjustments**: Admin controls for vote adjustments
+    - `boy`: Manual adjustment count for boy votes
+    - `girl`: Manual adjustment count for girl votes
+  - **results**: Display control flags
+    - `showGameStarted`: Controls game start visibility
+    - `showResultPage`: Controls result page visibility
+    - `showVotingScreen`: Controls voting screen visibility
+  - **userVotes**: Collection of individual user votes using UUID keys
+
 ### Technology Stack
 
 - **Frontend**: React.js with Vite for blazing-fast development
@@ -429,4 +471,3 @@ Baby Gender Reveal Vote is an interactive web application that transforms tradit
   
   [Follow me](https://github.com/rakshitbharat) for more awesome projects!
 </div>
-
